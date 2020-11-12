@@ -29,6 +29,7 @@ public class Graph_DS implements graph {
      */
     @Override
     public node_data getNode(int key) {
+        if(my_graph.get(key) == null) return null;
         return this.my_graph.get(key);
     }
 
