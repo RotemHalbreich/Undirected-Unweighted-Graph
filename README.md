@@ -1,9 +1,6 @@
 # Ex0
 Object Oriented Programming (Ariel University - Computer science department):
 
-Name: Rotem Halbreich
-ID:   311549364
-
 Assignment 0:
 
 This project deals with the subject of "Graph Theory" focusing on undirectional and unweighted graph.
