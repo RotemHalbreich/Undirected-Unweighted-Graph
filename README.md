@@ -44,8 +44,8 @@ The project assembeled of 3 different classes:
 	Most of the graph's algorithms are based on BFS algorithm.
 	
 	The purpose of the project is to implement those graph's algorithms:
-	A. Init() - Initializes the graph.
-	B. Copy() - Computes a deep copy of the graph.
+	A. init(g graph) - Initializes the graph.
+	B. copy() - Computes a deep copy of the graph.
 	C. isConnected() - Checks if all the vertices of the graph are connected by edges.
 	D. shortestPathDist(src, dest) - Returns the shortest path distance between two vertices of the graph. 
 	E. shortestPath(src, dest) - Returns the shortest path route between two vertices of the graph.
