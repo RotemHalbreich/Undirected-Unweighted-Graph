@@ -1,17 +1,16 @@
-# Ex0
-Object Oriented Programming (Ariel University - Computer science department):
+# *Ex0*
 
-Assignment 0:
+## *Object Oriented Programming (Ariel University - Computer science department):*
 
-This project deals with the subject of "Graph Theory" focusing on undirectional and unweighted graph.
-
-The project assembeled of 3 different classes:
-
-1.	NodeData:
+### *This project deals with the subject of "Graph Theory" focusing on undirectional and unweighted graph.*
 ------------------------------------------------------------------------------------------
-	Represents the graph's vertices:
-	In this class I chose using the HashMap data structure for its fast running time O(1),
-	by linking each neighbor's key to the vertex key.
+*The project assembeled of 3 different classes:*
+
+## 1.	*NodeData:*
+------------------------------------------------------------------------------------------
+	*Represents the graph's vertices:*
+	*In this class I chose using the HashMap data structure for its fast running time O(1),
+	by linking each neighbor's key to the vertex key.*
 	
 	Including methods:
 	A. Get a unique key ID for each vertex.
@@ -22,11 +21,11 @@ The project assembeled of 3 different classes:
 	F. Remove an edge from the graph.
 
 
-2.	Graph_DS:
+## 2.	*Graph_DS:*
 ------------------------------------------------------------------------------------------
-	Represents a graph assembeled of vertices:
-	In this class I chose using the HashMap data structure for its fast running time O(1),
-	by linking each neighbor's key to the vertex key.
+	*Represents a graph assembeled of vertices:*
+	*In this class I chose using the HashMap data structure for its fast running time O(1),
+	by linking each neighbor's key to the vertex key.*
 	
 	Including methods:
 	A. Get a vertex by a unique key.
@@ -38,10 +37,10 @@ The project assembeled of 3 different classes:
 	G. Remove a vertex from the graph.
 
 
-3.  Graph_Algo: 
+## 3.  *Graph_Algo:* 
 ------------------------------------------------------------------------------------------
-	Represents the algorithms we apply on the graph:
-	Most of the graph's algorithms are based on BFS algorithm.
+	*Represents the algorithms we apply on the graph:*
+	*Most of the graph's algorithms are based on BFS algorithm.*
 	
 	The purpose of the project is to implement those graph's algorithms:
 	A. init(g graph) - Initializes the graph.
