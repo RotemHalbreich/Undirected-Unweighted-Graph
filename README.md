@@ -8,9 +8,9 @@
 
 ## 1.	*NodeData:*
 ------------------------------------------------------------------------------------------
-	*Represents the graph's vertices:*
-	*In this class I chose using the HashMap data structure for its fast running time O(1),
-	by linking each neighbor's key to the vertex key.*
+	Represents the graph's vertices:
+	In this class I chose using the HashMap data structure for its fast running time O(1),
+	by linking each neighbor's key to the vertex key.
 	
 	Including methods:
 	A. Get a unique key ID for each vertex.
@@ -23,9 +23,9 @@
 
 ## 2.	*Graph_DS:*
 ------------------------------------------------------------------------------------------
-	*Represents a graph assembeled of vertices:*
-	*In this class I chose using the HashMap data structure for its fast running time O(1),
-	by linking each neighbor's key to the vertex key.*
+	Represents a graph assembeled of vertices:
+	In this class I chose using the HashMap data structure for its fast running time O(1),
+	by linking each neighbor's key to the vertex key.
 	
 	Including methods:
 	A. Get a vertex by a unique key.
@@ -39,8 +39,8 @@
 
 ## 3.  *Graph_Algo:* 
 ------------------------------------------------------------------------------------------
-	*Represents the algorithms we apply on the graph:*
-	*Most of the graph's algorithms are based on BFS algorithm.*
+	Represents the algorithms we apply on the graph:
+	Most of the graph's algorithms are based on BFS algorithm.
 	
 	The purpose of the project is to implement those graph's algorithms:
 	A. init(g graph) - Initializes the graph.
